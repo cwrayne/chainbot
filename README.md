@@ -4,6 +4,7 @@ Discord bot that plays a game where you *chain* letters/words together to make a
 ## Invite
 
 Invite the bot [here (https://discord.com/oauth2/authorize?client_id=1343609177028694076)](https://discord.com/oauth2/authorize?client_id=1343609177028694076).
+Then run c!help to see the commands!
 
 ## Use your own bot
 In case you wanted to use your own bot instead of the bot that I have made, follow these instructions:
